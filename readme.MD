@@ -5,8 +5,8 @@ the result as a dot graph. It removes unreachable states before processing.
 
 ### Quick Links
 
-- Jupyter Notebook
-- DFA Class
+- [Jupyter Notebook](https://github.com/nvnmo/dfa-minimization/blob/master/DFA%20minimization.ipynb)
+- [DFA Class](https://github.com/nvnmo/dfa-minimization/blob/master/dfa.py)
 
 ## Usage
 
